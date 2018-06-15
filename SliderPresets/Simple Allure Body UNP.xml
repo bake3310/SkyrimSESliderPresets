@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Simple Allure Body UNP" set="Unified UNP Special">
+        <Group name="CBAdvanced"/>
+        <Group name="UUNP Vanilla Outfits (HDT)"/>
+        <Group name="UUNP Vanilla Outfits (Non HDT)"/>
+        <Group name="UUNP Vanilla Outfits Immersive (Non HDT + HDT)"/>
+        <Group name="Unified UNP"/>
+        <Group name="WTF The Amazing World of Bikini Armors"/>
+        <SetSlider name="AnkleSize" size="big" value="100"/>
+        <SetSlider name="AppleCheeks" size="big" value="25"/>
+        <SetSlider name="AppleCheeks" size="small" value="25"/>
+        <SetSlider name="BreastCleavage" size="big" value="57"/>
+        <SetSlider name="BreastCleavage" size="small" value="57"/>
+        <SetSlider name="BreastHeight" size="big" value="50"/>
+        <SetSlider name="BreastHeight" size="small" value="50"/>
+        <SetSlider name="BreastWidth" size="big" value="-50"/>
+        <SetSlider name="BreastWidth" size="small" value="-50"/>
+        <SetSlider name="Breasts" size="big" value="80"/>
+        <SetSlider name="Breasts" size="small" value="80"/>
+        <SetSlider name="BreastsNewSH" size="big" value="35"/>
+        <SetSlider name="BreastsNewSH" size="small" value="35"/>
+        <SetSlider name="BreastsTogether" size="big" value="70"/>
+        <SetSlider name="BreastsTogether" size="small" value="70"/>
+        <SetSlider name="HipForward" size="big" value="15"/>
+        <SetSlider name="HipForward" size="small" value="15"/>
+        <SetSlider name="Hips" size="big" value="20"/>
+        <SetSlider name="Hips" size="small" value="20"/>
+        <SetSlider name="LegShapeClassic" size="big" value="25"/>
+        <SetSlider name="LegShapeClassic" size="small" value="25"/>
+        <SetSlider name="NippleDistance" size="big" value="50"/>
+        <SetSlider name="NippleDistance" size="small" value="50"/>
+        <SetSlider name="NippleDown" size="big" value="10"/>
+        <SetSlider name="NippleDown" size="small" value="10"/>
+        <SetSlider name="NippleLength" size="big" value="10"/>
+        <SetSlider name="NippleLength" size="small" value="10"/>
+        <SetSlider name="NipplePerkManga" size="big" value="65"/>
+        <SetSlider name="NipplePerkManga" size="small" value="65"/>
+        <SetSlider name="NipplePerkiness" size="big" value="65"/>
+        <SetSlider name="NipplePerkiness" size="small" value="65"/>
+        <SetSlider name="NippleSize" size="big" value="80"/>
+        <SetSlider name="NippleSize" size="small" value="80"/>
+        <SetSlider name="ShoulderSmooth" size="big" value="100"/>
+        <SetSlider name="ShoulderSmooth" size="small" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="small" value="100"/>
+        <SetSlider name="SlimThighs" size="big" value="50"/>
+        <SetSlider name="SlimThighs" size="small" value="50"/>
+        <SetSlider name="Thighs" size="big" value="100"/>
+        <SetSlider name="WristSize" size="big" value="100"/>
+    </Preset>
+</SliderPresets>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Freya 1.0" set="Unified UNP Special">
+        <Group name="01Favorites"/>
+        <Group name="CBAdvanced"/>
+        <Group name="UUNP Vanilla Outfits (HDT)"/>
+        <Group name="UUNP Vanilla Outfits (Non HDT)"/>
+        <Group name="UUNP Vanilla Outfits Immersive (Non HDT + HDT)"/>
+        <Group name="Unified UNP"/>
+        <Group name="WTF The Amazing World of Bikini Armors"/>
+        <SetSlider name="Arms" size="big" value="135"/>
+        <SetSlider name="Arms" size="small" value="135"/>
+        <SetSlider name="Back" size="big" value="100"/>
+        <SetSlider name="Back" size="small" value="100"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="Belly" size="small" value="15"/>
+        <SetSlider name="BreastCleavage" size="big" value="70"/>
+        <SetSlider name="BreastCleavage" size="small" value="70"/>
+        <SetSlider name="BreastPerkiness" size="big" value="100"/>
+        <SetSlider name="BreastPerkiness" size="small" value="100"/>
+        <SetSlider name="BreastsFantasy" size="big" value="34"/>
+        <SetSlider name="BreastsFantasy" size="small" value="34"/>
+        <SetSlider name="BreastsSH" size="big" value="32"/>
+        <SetSlider name="BreastsSH" size="small" value="32"/>
+        <SetSlider name="BreastsSSH" size="big" value="34"/>
+        <SetSlider name="BreastsSSH" size="small" value="34"/>
+        <SetSlider name="ButtShape2" size="big" value="100"/>
+        <SetSlider name="ButtShape2" size="small" value="100"/>
+        <SetSlider name="ButtSmall" size="big" value="0"/>
+        <SetSlider name="ButtSmall" size="small" value="0"/>
+        <SetSlider name="CalfSize" size="big" value="120"/>
+        <SetSlider name="CalfSize" size="small" value="120"/>
+        <SetSlider name="ChubbyArms" size="big" value="61"/>
+        <SetSlider name="ChubbyArms" size="small" value="61"/>
+        <SetSlider name="ChubbyButt" size="big" value="100"/>
+        <SetSlider name="ChubbyButt" size="small" value="100"/>
+        <SetSlider name="ChubbyLegs" size="big" value="20"/>
+        <SetSlider name="ChubbyLegs" size="small" value="20"/>
+        <SetSlider name="DoubleMelon" size="big" value="58"/>
+        <SetSlider name="DoubleMelon" size="small" value="58"/>
+        <SetSlider name="NippleAreola" size="big" value="4"/>
+        <SetSlider name="NippleAreola" size="small" value="4"/>
+        <SetSlider name="NipplePerkiness" size="big" value="8"/>
+        <SetSlider name="NipplePerkiness" size="small" value="8"/>
+        <SetSlider name="ShoulderWidth" size="big" value="55"/>
+        <SetSlider name="ShoulderWidth" size="small" value="55"/>
+        <SetSlider name="Thighs" size="big" value="100"/>
+        <SetSlider name="Thighs" size="small" value="100"/>
+        <SetSlider name="TummyTuck" size="big" value="100"/>
+        <SetSlider name="TummyTuck" size="small" value="100"/>
+        <SetSlider name="WideWaistLine" size="big" value="100"/>
+        <SetSlider name="WideWaistLine" size="small" value="100"/>
+    </Preset>
+</SliderPresets>

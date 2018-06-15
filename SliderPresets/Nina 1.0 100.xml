@@ -1,0 +1,64 @@
+<SliderPresets>
+    <Preset name="Nina 1.0 100" set="Unified UNP HDT">
+        <Group name="1StandardKit"/>
+        <Group name="CB++"/>
+        <Group name="CB++ Killer Keos Armor"/>
+        <Group name="CB++ Killer Keos Clothes"/>
+        <Group name="CB++ Killer Keos Dawnguard"/>
+        <Group name="CB++ Killer Keos Dragonborn"/>
+        <Group name="CB++ Killer Keos Mods"/>
+        <Group name="CBAdvanced"/>
+        <Group name="CT77 Armor"/>
+        <Group name="CT77 Bonus"/>
+        <Group name="CT77 Clothes"/>
+        <Group name="CT77 Dawnguard"/>
+        <Group name="CT77 Dragonborn"/>
+        <Group name="CT77 Throwback"/>
+        <Group name="CT77 Underwear"/>
+        <Group name="MiniDresses UUNP"/>
+        <Group name="MiniDresses UUNP HDT"/>
+        <Group name="See-through Dress UUNP"/>
+        <Group name="Unified UNP"/>
+        <Group name="WTF Elvenia Bikini Armor"/>
+        <Group name="WTF Lucrezia Navarre&apos;s Rob"/>
+        <SetSlider name="- Zap : Abs" size="big" value="0"/>
+        <SetSlider name="- Zap : Neck" size="big" value="100"/>
+        <SetSlider name="- Zap : Neck" size="small" value="100"/>
+        <SetSlider name="- Zap : Shoulders" size="big" value="0"/>
+        <SetSlider name="AppleCheeks" size="big" value="100"/>
+        <SetSlider name="AppleCheeks" size="small" value="100"/>
+        <SetSlider name="Arms" size="big" value="135"/>
+        <SetSlider name="Arms" size="small" value="135"/>
+        <SetSlider name="Back" size="big" value="15"/>
+        <SetSlider name="Back" size="small" value="15"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="Belly" size="small" value="15"/>
+        <SetSlider name="BigTorso" size="big" value="49"/>
+        <SetSlider name="BreastCleavage" size="big" value="57"/>
+        <SetSlider name="BreastCleavage" size="small" value="100"/>
+        <SetSlider name="BreastPerkiness" size="big" value="-50"/>
+        <SetSlider name="Breasts" size="small" value="80"/>
+        <SetSlider name="BreastsSH" size="big" value="30"/>
+        <SetSlider name="BreastsSSH" size="big" value="20"/>
+        <SetSlider name="BreastsSmall" size="small" value="80"/>
+        <SetSlider name="CalfSize" size="big" value="120"/>
+        <SetSlider name="CalfSize" size="small" value="120"/>
+        <SetSlider name="ChubbyArms" size="big" value="61"/>
+        <SetSlider name="ChubbyLegs" size="big" value="20"/>
+        <SetSlider name="ChubbyLegs" size="small" value="20"/>
+        <SetSlider name="NipplePerkiness" size="big" value="55"/>
+        <SetSlider name="NippleSize" size="big" value="150"/>
+        <SetSlider name="NippleUp" size="big" value="100"/>
+        <SetSlider name="NippleUp" size="small" value="45"/>
+        <SetSlider name="RoundAss" size="big" value="20"/>
+        <SetSlider name="RoundAss" size="small" value="20"/>
+        <SetSlider name="ShoulderWidth" size="big" value="55"/>
+        <SetSlider name="ShoulderWidth" size="small" value="70"/>
+        <SetSlider name="Thighs" size="big" value="100"/>
+        <SetSlider name="Thighs" size="small" value="65"/>
+        <SetSlider name="Waist" size="big" value="-5"/>
+        <SetSlider name="Waist" size="small" value="-5"/>
+        <SetSlider name="ZapLeggings" size="big" value="100"/>
+        <SetSlider name="ZapLeggings" size="small" value="100"/>
+    </Preset>
+</SliderPresets>
