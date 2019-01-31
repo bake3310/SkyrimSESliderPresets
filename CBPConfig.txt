@@ -1,0 +1,59 @@
+# Linear spring stiffness; larger is less motion
+#Breast.stiffness 0.000
+#Breast.stiffness 0.04
+
+# Quadratic Spring stiffness; larger is less motion
+#Breast.stiffness2 0.0125
+Breast.stiffness2 0.025
+
+# Velocity removed/tick 1.0 would be all velocity removed 
+#Breast.damping 0.02
+Breast.damping 0.04
+
+# Maximum number of units position can diverge from target; larger is more motion
+Breast.maxoffset 8
+
+# Time Quanta for the physics in ms; 4 means that a 16ms frame would be broken down into 4 4ms steps
+Breast.timetick 4
+
+# Scale of the motion in X/Y/Z - Y is front to back, Z up and down and X side to side; larger is more motion
+Breast.linearX 0.7
+#Breast.linearY 0.1
+Breast.linearY 0.2
+#Breast.linearZ 0.35
+Breast.linearZ 0.7
+
+# Scale of the bones rotation around the X axis; larger is more motion
+#Breast.rotational 0.045
+Breast.rotational 0.07
+
+
+#Butt.stiffness 0.015
+Butt.stiffness 0.02
+#Butt.stiffness2 0.015
+Butt.stiffness2 0.02
+#Butt.damping 0.05
+Butt.damping 0.04
+Butt.maxoffset 2
+#Butt.timetick 4
+Butt.timetick 1
+#Butt.linearX 1.0
+Butt.linearX 0.5
+#Butt.linearY 2.0
+Butt.linearY 1.0
+Butt.linearZ 2.0
+#Butt.rotational 0.05
+Butt.rotational 0.03
+
+Belly.stiffness 0.005
+Belly.stiffness2 0.00
+Belly.damping 0
+Belly.maxoffset 0
+Belly.timetick 4
+Belly.linearX 0.0
+Belly.linearY 0.0
+Belly.linearZ 0.0
+Belly.rotational 0.0
+
+# non zero allows for new values to take effect in-game; 60 is recommend for tuning
+Tuning.rate 60
