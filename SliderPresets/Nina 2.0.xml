@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Nina 2.0" set="CBBE Body Physics">
+        <Group name="01Favorites"/>
+        <Group name="01Wenches"/>
+        <Group name="Astrid"/>
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE SE - TAWOBA"/>
+        <Group name="CBBE SSE Bikini Ascend"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="CBBE Vanilla Outfits Physics"/>
+        <Group name="Minidresses CBBE SE all in one [physics]"/>
+        <Group name="Minidresses CBBE SE body only [physics]"/>
+        <Group name="Minidresses CBBE SE misc parts"/>
+        <Group name="Spice Gear CBBE SE all in one [physics]"/>
+        <Group name="Spice Gear CBBE SE body only [physics]"/>
+        <Group name="Spice Gear CBBE SE misc parts"/>
+        <SetSlider name="AppleCheeks" size="big" value="35"/>
+        <SetSlider name="AreolaSize" size="big" value="100"/>
+        <SetSlider name="Arms" size="big" value="30"/>
+        <SetSlider name="Arms" size="small" value="50"/>
+        <SetSlider name="Back" size="big" value="25"/>
+        <SetSlider name="BigButt" size="big" value="15"/>
+        <SetSlider name="BreastCenter" size="big" value="20"/>
+        <SetSlider name="BreastFlatness2" size="big" value="-40"/>
+        <SetSlider name="BreastGravity2" size="small" value="10"/>
+        <SetSlider name="BreastTopSlope" size="big" value="40"/>
+        <SetSlider name="BreastTopSlope" size="small" value="20"/>
+        <SetSlider name="Breasts" size="big" value="80"/>
+        <SetSlider name="BreastsNewSH" size="big" value="50"/>
+        <SetSlider name="BreastsTogether" size="big" value="84"/>
+        <SetSlider name="BreastsTogether" size="small" value="25"/>
+        <SetSlider name="Butt" size="big" value="80"/>
+        <SetSlider name="Butt" size="small" value="50"/>
+        <SetSlider name="ButtCrack" size="big" value="80"/>
+        <SetSlider name="ButtCrack" size="small" value="80"/>
+        <SetSlider name="CalfSize" size="big" value="45"/>
+        <SetSlider name="CalfSmooth" size="big" value="100"/>
+        <SetSlider name="CalfSmooth" size="small" value="100"/>
+        <SetSlider name="ChestWidth" size="big" value="20"/>
+        <SetSlider name="CrotchBack" size="big" value="30"/>
+        <SetSlider name="CrotchBack" size="small" value="25"/>
+        <SetSlider name="HipForward" size="big" value="45"/>
+        <SetSlider name="HipForward" size="small" value="35"/>
+        <SetSlider name="HipUpperWidth" size="big" value="25"/>
+        <SetSlider name="HipUpperWidth" size="small" value="25"/>
+        <SetSlider name="LegsThin" size="small" value="25"/>
+        <SetSlider name="NippleDown" size="small" value="20"/>
+        <SetSlider name="NippleSize" size="big" value="-50"/>
+        <SetSlider name="NippleSize" size="small" value="50"/>
+        <SetSlider name="NippleTip" size="big" value="10"/>
+        <SetSlider name="NippleTip" size="small" value="10"/>
+        <SetSlider name="NippleUp" size="big" value="51"/>
+        <SetSlider name="ShoulderWidth" size="big" value="30"/>
+        <SetSlider name="ShoulderWidth" size="small" value="60"/>
+        <SetSlider name="SlimThighs" size="small" value="10"/>
+        <SetSlider name="Thighs" size="big" value="25"/>
+        <SetSlider name="TummyTuck" size="small" value="20"/>
+        <SetSlider name="WaistHeight" size="big" value="15"/>
+        <SetSlider name="WaistHeight" size="small" value="15"/>
+        <SetSlider name="WideWaistLine" size="small" value="20"/>
+    </Preset>
+</SliderPresets>

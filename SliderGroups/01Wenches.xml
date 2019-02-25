@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderGroups>
+    <Group name="01Wenches">
+        <Member name="Barkeeper Boots MDSE"/>
+        <Member name="Barkeeper Clothes MDSE"/>
+        <Member name="Beggar Boots MDSE"/>
+        <Member name="Beggar Clothes MDSE"/>
+        <Member name="Blacksmith Boots MDSE"/>
+        <Member name="Blacksmith Clothes MDSE"/>
+        <Member name="Farm Boots 1 MDSE"/>
+        <Member name="Farm Boots 3 MDSE"/>
+        <Member name="Farm Clothes 1 MDSE"/>
+        <Member name="Farm Clothes 3 MDSE"/>
+        <Member name="Fine Boots 1 MDSE"/>
+        <Member name="Fine Clothes 2 MDSE"/>
+        <Member name="Jester Boots MDSE"/>
+        <Member name="Jester Clothes MDSE"/>
+        <Member name="Mage Apprentice Boots MDSE"/>
+        <Member name="Mage Apprentice Robes MDSE"/>
+        <Member name="Mage Journeyman Robes MDSE"/>
+        <Member name="Miner Boots MDSE"/>
+        <Member name="Miner Clothes MDSE"/>
+        <Member name="Monk Robes 2 MDSE"/>
+        <Member name="Prisoner Bloody Clothes MDSE"/>
+        <Member name="Prisoner Bloody Shoes MDSE"/>
+        <Member name="Prisoner Clothes MDSE"/>
+        <Member name="Prisoner Rag Clothes MDSE"/>
+        <Member name="Prisoner Shoes MDSE"/>
+        <Member name="Psijic Gloves MDSE"/>
+        <Member name="Psijic Robes MDSE"/>
+        <Member name="Vampire Royal Armor 1 MDSE"/>
+        <Member name="Vampire Royal Armor 2 MDSE"/>
+        <Member name="Vampire Royal Boots MDSE"/>
+        <Member name="Wedding Dress MDSE"/>
+        <Member name="Wedding Dress Sandals MDSE"/>
+        <Member name="Wench Boots MDSE"/>
+        <Member name="Wench Clothes MDSE"/>
+        <Member name="Yarl 1 Clothes 1 MDSE"/>
+        <Member name="Yarl 1 Clothes 2 MDSE"/>
+        <Member name="Yarl 1 Clothes 3 MDSE"/>
+        <Member name="Yarl 2 Boots MDSE"/>
+        <Member name="Yarl 2 Clothes 1 MDSE"/>
+        <Member name="Yarl 2 Gloves MDSE"/>
+        <Member name="Yarl 3 Boots MDSE"/>
+        <Member name="Yarl 3 Clothes 1 MDSE"/>
+        <Member name="Yarl 3 Clothes 2 MDSE"/>
+    </Group>
+</SliderGroups>

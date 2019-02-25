@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Nina 1.1 150 Armor" set="CBBE Body Physics">
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE SE - TAWOBA"/>
+        <Group name="CBBE SSE Bikini Ascend"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="CBBE Vanilla Outfits Physics"/>
+        <Group name="Minidresses CBBE SE all in one [physics]"/>
+        <Group name="Minidresses CBBE SE body only [physics]"/>
+        <Group name="Minidresses CBBE SE misc parts"/>
+        <Group name="Spice Gear CBBE SE all in one [physics]"/>
+        <Group name="Spice Gear CBBE SE body only [physics]"/>
+        <Group name="Spice Gear CBBE SE misc parts"/>
+        <SetSlider name="AppleCheeks" size="big" value="100"/>
+        <SetSlider name="AppleCheeks" size="small" value="100"/>
+        <SetSlider name="AreolaSize" size="big" value="56"/>
+        <SetSlider name="Arms" size="big" value="135"/>
+        <SetSlider name="Arms" size="small" value="135"/>
+        <SetSlider name="Back" size="big" value="15"/>
+        <SetSlider name="Back" size="small" value="15"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="Belly" size="small" value="15"/>
+        <SetSlider name="BreastCleavage" size="big" value="57"/>
+        <SetSlider name="BreastCleavage" size="small" value="57"/>
+        <SetSlider name="BreastFlatness" size="big" value="-20"/>
+        <SetSlider name="BreastFlatness2" size="big" value="-20"/>
+        <SetSlider name="BreastHeight" size="big" value="50"/>
+        <SetSlider name="BreastPerkiness" size="big" value="-50"/>
+        <SetSlider name="BreastTopSlope" size="big" value="150"/>
+        <SetSlider name="BreastWidth" size="big" value="-25"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="Breasts" size="small" value="80"/>
+        <SetSlider name="BreastsNewSH" size="big" value="50"/>
+        <SetSlider name="BreastsSmall" size="big" value="-20"/>
+        <SetSlider name="BreastsSmall" size="small" value="80"/>
+        <SetSlider name="BreastsSmall2" size="big" value="-20"/>
+        <SetSlider name="CalfSize" size="big" value="120"/>
+        <SetSlider name="CalfSize" size="small" value="120"/>
+        <SetSlider name="ChestWidth" size="big" value="100"/>
+        <SetSlider name="ChubbyLegs" size="big" value="20"/>
+        <SetSlider name="ChubbyLegs" size="small" value="20"/>
+        <SetSlider name="NipplePerkiness" size="big" value="55"/>
+        <SetSlider name="NipplePerkiness" size="small" value="55"/>
+        <SetSlider name="NippleSize" size="big" value="100"/>
+        <SetSlider name="NippleSize" size="small" value="150"/>
+        <SetSlider name="NippleUp" size="big" value="45"/>
+        <SetSlider name="RoundAss" size="big" value="20"/>
+        <SetSlider name="RoundAss" size="small" value="20"/>
+        <SetSlider name="ShoulderWidth" size="big" value="70"/>
+        <SetSlider name="ShoulderWidth" size="small" value="70"/>
+        <SetSlider name="Thighs" size="big" value="65"/>
+        <SetSlider name="Thighs" size="small" value="65"/>
+        <SetSlider name="Waist" size="big" value="-5"/>
+        <SetSlider name="Waist" size="small" value="-5"/>
+    </Preset>
+</SliderPresets>
